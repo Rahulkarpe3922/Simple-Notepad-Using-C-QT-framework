@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/rec">
+        <file>img/about.jpg</file>
+        <file>img/copy.png</file>
+        <file>img/cut.png</file>
+        <file>img/new.jpg</file>
+        <file>img/open.jpg</file>
+        <file>img/paste.jpg</file>
+        <file>img/redo.png</file>
+        <file>img/save.png</file>
+        <file>img/save-as.jpg</file>
+        <file>img/undo.png</file>
+        <file>img/back1.jpg</file>
+        <file>img/font.png</file>
+        <file>img/text_color.jpg</file>
+        <file>img/bgwindow color.jpg</file>
+    </qresource>
+</RCC>
